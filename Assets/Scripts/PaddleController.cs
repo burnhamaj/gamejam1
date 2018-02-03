@@ -15,7 +15,7 @@ public class PaddleController : MonoBehaviour {
 		float moveHorizontal = Input.GetAxis ("Horizontal");
 
 		Vector2 movement = new Vector2 (moveHorizontal, 0);
-		rb2d.AddForce (movement * moveSpeed);
+		rb2d.velocity = (movement * moveSpeed * Time.deltaTime);
 	}
 
 }
