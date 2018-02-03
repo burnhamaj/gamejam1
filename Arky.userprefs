@@ -1,9 +1,29 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PaddleController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BlockController.cs">
     <Files>
-      <File FileName="Assets/Scripts/PaddleController.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/PaddleController.cs" Line="12" Column="3" />
+      <File FileName="Assets/Scripts/ball.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/BlockController.cs" Line="22" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Arky" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="BlockController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Arky" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

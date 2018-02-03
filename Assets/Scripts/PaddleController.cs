@@ -9,6 +9,7 @@ public class PaddleController : MonoBehaviour {
 
 	void Start() {
 		rb2d = GetComponent<Rigidbody2D> ();
+
 	}
 
 	void FixedUpdate() {
